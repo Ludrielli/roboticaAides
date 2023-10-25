@@ -10,3 +10,7 @@
     font-size: 25px;  
     background-color: aliceblue;
 }
+img{
+    max-width:20%;
+    max-height:20%;
+}
