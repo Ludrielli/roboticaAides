@@ -14,12 +14,15 @@
     margin-left: 25%;
     
  } 
- 
+ .text{
+    background-color: darkturquoise; 
+ }
 .texto{
     color: blue;
     text-align: center;
     font-size: 20px;
     background-color: darkturquoise;
     padding: auto;
+
 }
 
