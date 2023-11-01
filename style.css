@@ -10,9 +10,8 @@
     font-size: 25px;  
     background-color: aliceblue;
 }
-img{
-    max-width:20%;
-    max-height:20%;
+#mao{
+   
 } 
 body{
     background-image:url(mao.png.jpg);
