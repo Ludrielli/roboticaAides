@@ -8,6 +8,7 @@
 }
 .img{
     background-color: rgba(86, 56, 56, 0.374);
+    max-height: max-content;
 }
 #mao{
     width: 50%;
