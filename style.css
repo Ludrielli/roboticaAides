@@ -8,7 +8,7 @@
     margin: 0;
 }
 .img{
-    background-color: rgba(52, 172, 208, 0.374);
+    background-color: rgba(52, 172, 208, 0.441);
     margin: 0;
 }
 #mao{
@@ -17,7 +17,7 @@
     
  } 
  .text{
-    background-color: darkturquoise; 
+    background-color: rgba(35, 175, 177, 0.659); 
  }
 .texto{
     color: blue;
