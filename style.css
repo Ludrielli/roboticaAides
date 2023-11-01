@@ -7,7 +7,7 @@
     border-top: 10px;
 }
 .img{
-    background-color: rgba(86, 56, 56, 0.374);
+    background-color: rgba(52, 172, 208, 0.374);
 }
 #mao{
     width: 50%;
@@ -21,7 +21,6 @@
     color: blue;
     text-align: center;
     font-size: 20px;
-    background-color: darkturquoise;
     padding: auto;
 
 }
