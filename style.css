@@ -11,7 +11,8 @@
     background-color: aliceblue;
 }
 #mao{
-   
+   width: 70%;
+   margin: auto;
 } 
 body{
     background-image:url(mao.png.jpg);
