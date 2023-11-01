@@ -12,8 +12,5 @@
 }
 #mao{
    width: 70%;
-   margin: auto;
+   padding: auto;;
 } 
-body{
-    background-image:url(mao.png.jpg);
-}
