@@ -27,13 +27,13 @@
 }
 .ordem{
     color: rgba(120, 120, 145, 0.63);
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     margin: 0;
 }
 .lista{
     color: rgb(41, 41, 56);
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     margin: 0;
 }
