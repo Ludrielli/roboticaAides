@@ -6,6 +6,9 @@ text-align: center;
 padding: 20px;
 border-bottom: 10px solid white;
 }
+body{
+    background-image: -moz-linear-gradient(black white);
+}
 #titulo{
     color: rgb(13, 5, 56);
     text-align: center;
