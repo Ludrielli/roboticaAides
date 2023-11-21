@@ -1,3 +1,6 @@
+body{
+    background-image: linear-gradient(black , white);
+}
 .cabecalho{
 background-color: black;
 color: beige;
@@ -5,9 +8,6 @@ font-size: 25px;
 text-align: center;
 padding: 20px;
 border-bottom: 10px solid white;
-}
-body{
-    background-image: linear-gradient(black , white);
 }
 #titulo{
     color: rgb(13, 5, 56);
