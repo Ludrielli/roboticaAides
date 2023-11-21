@@ -4,6 +4,7 @@ color: beige;
 font-size: 25px;
 text-align: center;
 padding: 20px;
+border-bottom:2px solid rgba(0, 0, 0, 0.089);
 }
 #titulo{
     color: rgb(13, 5, 56);
