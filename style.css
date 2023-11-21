@@ -7,7 +7,7 @@ padding: 20px;
 border-bottom: 10px solid white;
 }
 body{
-    background-image: linear-gradient(black white);
+    background-image: linear-gradient(black, white);
 }
 #titulo{
     color: rgb(13, 5, 56);
@@ -26,6 +26,7 @@ body{
 #mao{
     width: 50%;
     margin-left: 25%;
+    border-radius: 10px;
     
  } 
  .text{
