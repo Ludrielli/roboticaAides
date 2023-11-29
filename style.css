@@ -2,6 +2,7 @@ body{
     background-image: linear-gradient(black , white);
 }
 .cabecalho{
+display: inline-block;
 background-color: black;
 color: beige;
 font-size: 25px;
