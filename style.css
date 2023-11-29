@@ -1,9 +1,6 @@
 body{
     background-image: linear-gradient(black , white);
 }
-.cabecalho-item{
-    display: inline-block;
-}
 .cabecalho{
 background-color: black;
 color: beige;
