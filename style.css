@@ -2,13 +2,15 @@ body{
     background-image: linear-gradient(black , white);
 }
 .cabecalho{
-display: inline-block;
 background-color: black;
 color: beige;
 font-size: 25px;
 text-align: center;
 padding: 20px;
 border-bottom: 10px solid white;
+}
+.item-img{
+    display: inline-block;
 }
 #titulo{
     color: rgb(13, 5, 56);
