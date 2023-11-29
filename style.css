@@ -32,7 +32,6 @@ border-bottom: 10px solid white;
  } 
  .text{
     background-color:beige; 
-    display: inline-block;
  }
 .texto{
     color: blue;
@@ -57,4 +56,7 @@ border-bottom: 10px solid white;
 }
 li {
     list-style-type: none;
+  }
+  u1{
+    display: inline-block;
   }
